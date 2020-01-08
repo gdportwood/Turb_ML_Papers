@@ -1,6 +1,6 @@
 # NeurIPS 2019 Papers/Talks Relevant to Computational Physics
 
-Compiled by: Gavin Portwood (LANL, XCP-4), Platon Karpov (LANL, T-5) and Peetak Mitra (LANL, CCS-2)
+Compiled by: Gavin Portwood, Platon Karpov and Peetak Mitra  (All, Los Alamos National Laboratory)
 
 README: Wherever possible we have provided paper links and/or talk links from the SlideLive website. Most of these topics have an arXiv paper associated with it.
 
@@ -10,7 +10,7 @@ README: Wherever possible we have provided paper links and/or talk links from th
 
 * * * * *
 
-(* Highly Recommended *) David Duvenaud, reflections on Neural ODE's after one year: <https://www.youtube.com/watch?v=YZ-_E7A3V2w>
+(* Great watch *) David Duvenaud, reflections on Neural ODE's after one year: <https://www.youtube.com/watch?v=YZ-_E7A3V2w>
 
 [Augmented Neural ODEs](https://papers.nips.cc/paper/8577-augmented-neural-odes) (Oxford)
 
