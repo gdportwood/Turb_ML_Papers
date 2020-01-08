@@ -1,6 +1,8 @@
 # NeurIPS 2019 Papers/Talks Relevant to Computational Physics
 
-Compiled by: Gavin Portwood, Platon Karpov and Peetak Mitra  (All, Los Alamos National Laboratory)
+Compiled by: Gavin Portwood, Platon Karpov and Peetak Mitra  
+Los Alamos National Laboratory
+LA-UR-20-20182
 
 README: Wherever possible we have provided paper links and/or talk links from the SlideLive website. Most of these topics have an arXiv paper associated with it.
 
