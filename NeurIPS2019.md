@@ -42,8 +42,7 @@ README: Wherever possible we have provided paper links and/or talk links from th
 
 [Numerical Weather Model Super Resolution](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_75.pdf) (LBL)
 
-[Towards physics-informed deep learning for turbulent flow prediction](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_81.pdf) (Rose Yu will be at PIML in Santa Fe)
-
+[Towards physics-informed deep learning for turbulent flow prediction](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_81.pdf) 
 [Turbulence forecasting via Neural ODE ](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_67.pdf)(LANL)
 
 [Wavelet-Powered Neural Networks for Turbulence](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_133.pdf) (LANL)
