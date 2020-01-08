@@ -1,4 +1,4 @@
-NeurIPS 2019 Papers/Talks Relevant to Computational Physics
+# NeurIPS 2019 Papers/Talks Relevant to Computational Physics
 
 Compiled by: Gavin Portwood (LANL, XCP-4), Platon Karpov (LANL, T-5) and Peetak Mitra (LANL, CCS-2)
 
@@ -6,7 +6,7 @@ README: Wherever possible we have provided paper links and/or talk links from th
 
 
 
-Neural ODEs
+## Neural ODEs
 
 * * * * *
 
@@ -21,7 +21,7 @@ Neural ODEs
 [Variational Integrator Networks for Physically Meaningful Embeddings](http://bayesiandeeplearning.org/2019/papers/110.pdf)
 
 
-Solving ODEs and PDEs
+## Solving ODEs and PDEs
 
 * * * * *
 
@@ -32,7 +32,7 @@ Solving ODEs and PDEs
 [Hamiltonian Graph Networks with ODE Integrators](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_30.pdf) (DeepMind)
 
 
-Applications in Fluid Dynamics and Turbulence
+## Applications in Fluid Dynamics and Turbulence
 
 * * * * *
 
@@ -49,7 +49,7 @@ Applications in Fluid Dynamics and Turbulence
 [Learning Generalized Quasi-Geostrophic Models Using Deep Neural Numerical Models ](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_109.pdf)
 
 
-Applications in Astro
+## Applications in Astro
 
 * * * * *
 
@@ -60,7 +60,7 @@ Applications in Astro
 [Predicting Cosmological Massive Neutrino Simulation with Convolutional Neural Networks](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_137.pdf)
 
 
-Miscellaneous Relevant Talks
+## Miscellaneous Relevant Talks
 
 * * * * *
 
@@ -75,7 +75,7 @@ Miscellaneous Relevant Talks
 From the NeurIPS [ML4PS workshop](https://ml4physicalsciences.github.io/) there are some excellent papers that we might not have seen/registered because of our domain experience. Please feel free to go through all the accepted papers [here](https://ml4physicalsciences.github.io/#papers). There are many contributions in the field of astrophysics that might be of interest to MELT.
 
 
-Select Recorded Talks at ML4PS workshop
+## Select Recorded Talks at ML4PS workshop
 
 * * * * *
 
